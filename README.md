@@ -5,7 +5,7 @@ A pleasant application where the client will be given buttons like play,reset an
     
 
 
-
+# create framework
 To introduce necessary modules, use pip command. Bringing the modules.
 showcasing the GUI window (Tkinter). Characterizing the capacities.
 
