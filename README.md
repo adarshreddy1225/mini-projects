@@ -1,5 +1,9 @@
-# TexttoSpeechAndLanguageTranslator-projects
-contains descriptions and code of the mini-projects developed in various programming languages
+# TexttoSpeechAndLanguageTranslator-project
+# introduction
+
+A pleasant application where the client will be given buttons like play,reset and exit. The client can enter the content which he/she needs tochange over into a speech or System generated voice.The Application takes contribution from the client and converts the accompanying content to speech or PC generated voice with the assistance of a button called play. A reset button and Exit button arelikewise given to the client to reset the application or to leave the application.The Tkinter GUI framework in python is utilized to make the design andlayout of the application.
+    
+
 
 
 To introduce necessary modules, use pip command. Bringing the modules.
@@ -55,3 +59,25 @@ Reset function set Msg variable to purge strings.
 Characterize Buttons:
 Button() widget used to show button on the window
 module.mainloop() is a technique that executes when we need to run our program.
+
+
+
+# System Design
+
+1. The programming language to be used is Python.
+2. The python framework tkinter gui will be used to implement a graphical interface.
+The application requires the client to enter a text .Then he/she must click on the play button which converts the text to a pc generated voice .
+In this content TTS converter application ,client's are furnished with a choice to enter the necessary content that client needs to change over to a voice,i.e 'ENTER TEXT'
+Client's will likewise be furnished with choices, for example, 'play' , 'rest', 'exit' .which will permit the client to play the content or reset the content or leave the application.
+This application additionally permit clients to change over the information text of any language into any ideal language by tapping on button 'TRANSLATE' which makes it not the same as the remainder of tts converter applications
+.
+Background interface will be rendered using tkinter using various in­built python modules
+
+
+
+# FEATURES:
+• Customizable speech­specific sentence tokenizer that allows for unlimited lengths of text to be read, all while keeping proper intonation, abbreviations, decimals and more;
+• Customizable text pre­processors which can, for example, provide pronunciation corrections.
+
+
+
